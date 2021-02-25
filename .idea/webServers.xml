@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="897207a0-e718-4f76-a593-feb4b315c532" name="poisonspider" url="http://wdoss.com">
+        <fileTransfer rootFolder="/Users/stmpjmpr/Sites/wdoss.com" accessType="SFTP" host="scottwhill.com" port="22" sshConfigId="60fea7d1-ed14-460f-9868-22dec7dcb7bf" sshConfig="stmpjmpr@scottwhill.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
